@@ -36,7 +36,7 @@ PhoneNumber INT NOT NULL UNIQUE
 );
 
 
-4. The code to create the Customers table is as follows :
+4. The code to populate the Customers table is as follows :
 
 INSERT INTO Customers(CustomerID, FullName, PhoneNumber) VALUES 
 
